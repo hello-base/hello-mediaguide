@@ -4,6 +4,4 @@ Our beloved Hello! Project members appear on their fair share of programming (no
 
 Hello! Media Guide was created to solve that.
 
-Much like TV Guide, H!MG provides a user-contributed calendar of events for which Hello! Project members appear on what variety shows at what time and on what channel.
-
-This comes in handy only for the Japan-locals you say? I say nay. [KeyholeTV](http://www.v2p.jp/video/) was created for expatriates and foreigners to get their share of Japanese television.
+Much like TV Guide, H!MG provides a user-contributed calendar of events for which Hello! Project members appear on what _variety shows_ at what _time_ and on what _channel_. This comes in handy only for the Japan-locals you say? I say nay. [KeyholeTV](http://www.v2p.jp/video/) was created for expatriates and foreigners to get their share of Japanese television.
